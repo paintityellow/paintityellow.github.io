@@ -1,0 +1,12 @@
+{
+  "name": "@paintityellow/paintityellow",
+  "version": "0.1.0-alpha-1",
+  "description": "Offcial Website of Paint IT Yellow",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/paintityellow/paintityellow.github.io.git",
+    "type": "git"
+  },
+  "author": "Dilip Shukla <contact@fusionstrings.com>",
+  "license": "GPL3"
+}

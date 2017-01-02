@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background: rgba(33,33,33,0.87) url('./../images/stardust_@2X.png') repeat;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+header{
+    padding: 30px;
+    background-color: #FFC400;
+    color: rgba(33,33,33,0.87);
+}
+.hero{
+    background-color: #FF5722;
+    color: #FAFAFA;
+    padding: 20px;
+    font-size: 42px;
+}
+.hero blockquote{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+}
+header h1{
+    text-align: center;
+    font-family: 'Swanky and Moo Moo', cursive;
+    font-size: 4rem;
+    line-height: 0.6;
+}
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    margin: 0;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+h2{
+    font-size: 32px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+main section{
+    padding: 30px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    padding: 20px;
+    font-family: 'Swanky and Moo Moo', cursive;
+    background: #FFAB00;
+    width: 100%;
+}
